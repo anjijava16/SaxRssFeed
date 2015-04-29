@@ -1,0 +1,1280 @@
+{
+"status": true,
+"status_code": 200,
+"version": "2.0.2",
+-"data": {
+"card_type": "micro_card",
+"prev_month": "2013-04",
+-"months": [
+-{
+-"days": [
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Sunrisers Hyderabad vs Mumbai Indians",
+"format": "t20",
+"title": "Sunrisers Hyderabad vs Mumbai Indians - 43rd Match - IPL T20 2013",
+"venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+-"teams": {
+-"a": {
+"name": "Sunrisers Hyderabad",
+"key": "srh"
+},
+-"b": {
+"name": "Mumbai Indians",
+"key": "mi"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g43",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g43/",
+-"start_date": {
+"iso": "2013-05-01T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Delhi Daredevils vs Kolkata Knight Riders",
+"format": "t20",
+"title": "Delhi Daredevils vs Kolkata Knight Riders - 44th Match - IPL T20 2013",
+"venue": "Chhattisgarh International Cricket Stadium, Raipur",
+-"teams": {
+-"a": {
+"name": "Delhi Daredevils",
+"key": "dd"
+},
+-"b": {
+"name": "Kolkata Knight Riders",
+"key": "kkr"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g44",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g44/",
+-"start_date": {
+"iso": "2013-05-01T14:30+00:00"
+}
+}
+],
+"day": 1,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Chennai Super Kings vs Kings XI Punjab",
+"format": "t20",
+"title": "Chennai Super Kings vs Kings XI Punjab - 45th Match - IPL T20 2013",
+"venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+-"teams": {
+-"a": {
+"name": "Chennai Super Kings",
+"key": "csk"
+},
+-"b": {
+"name": "KingsXI Punjab",
+"key": "kxip"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g45",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g45/",
+-"start_date": {
+"iso": "2013-05-02T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Pune Warriors vs Royal Challengers Bangalore",
+"format": "t20",
+"title": "Pune Warriors vs Royal Challengers Bangalore - 46th Match - IPL T20 2013",
+"venue": "Subrata Roy Sahara Stadium, Pune",
+-"teams": {
+-"a": {
+"name": "Pune Warriors",
+"key": "pwi"
+},
+-"b": {
+"name": "Royal Challengers Bangalore",
+"key": "rcb"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g46",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g46/",
+-"start_date": {
+"iso": "2013-05-02T14:30+00:00"
+}
+}
+],
+"day": 2,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Zimbabwe vs Bangladesh",
+"format": "one-day",
+"title": "Zimbabwe vs Bangladesh - 1st ODI Match at Bulawayo - Zimbabwe vs Bangladesh 2013",
+"venue": "Queens Sports Club, Bulawayo",
+-"teams": {
+-"a": {
+"name": "Zimbabwe",
+"key": "zim"
+},
+-"b": {
+"name": "Bangladesh",
+"key": "ban"
+}
+},
+"winner_team": "b",
+"key": "zimban_2013_one-day_01",
+"ref": "http://www.litzscore.com/series/zimban_2013/zimban_2013_one-day_01/",
+-"start_date": {
+"iso": "2013-05-03T07:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Kolkata Knight Riders v Rajasthan Royals",
+"format": "t20",
+"title": "Kolkata Knight Riders v Rajasthan Royals - 47th Match - IPL T20 2013",
+"venue": "Eden Gardens, Kolkata",
+-"teams": {
+-"a": {
+"name": "Kolkata Knight Riders",
+"key": "kkr"
+},
+-"b": {
+"name": "Rajasthan Royals",
+"key": "rr"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g47",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g47/",
+-"start_date": {
+"iso": "2013-05-03T14:30+00:00"
+}
+}
+],
+"day": 3,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Sunrisers Hyderabad v Delhi Daredevils",
+"format": "t20",
+"title": "Sunrisers Hyderabad v Delhi Daredevils - 48th Match - IPL T20 2013",
+"venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+-"teams": {
+-"a": {
+"name": "Sunrisers Hyderabad",
+"key": "srh"
+},
+-"b": {
+"name": "Delhi Daredevils",
+"key": "dd"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g48",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g48/",
+-"start_date": {
+"iso": "2013-05-04T14:30+00:00"
+}
+}
+],
+"day": 4,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Zimbabwe vs Bangladesh",
+"format": "one-day",
+"title": "Zimbabwe vs Bangladesh - 2nd ODI Match at Bulawayo - Zimbabwe vs Bangladesh 2013",
+"venue": "Queens Sports Club, Bulawayo",
+-"teams": {
+-"a": {
+"name": "Zimbabwe",
+"key": "zim"
+},
+-"b": {
+"name": "Bangladesh",
+"key": "ban"
+}
+},
+"winner_team": "a",
+"key": "zimban_2013_one-day_02",
+"ref": "http://www.litzscore.com/series/zimban_2013/zimban_2013_one-day_02/",
+-"start_date": {
+"iso": "2013-05-05T07:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Mumbai Indians vs Chennai Super Kings",
+"format": "t20",
+"title": "Mumbai Indians vs Chennai Super Kings - 49th Match - IPL T20 2013",
+"venue": "Wankhede Stadium, Mumbai",
+-"teams": {
+-"a": {
+"name": "Mumbai Indians",
+"key": "mi"
+},
+-"b": {
+"name": "Chennai Super Kings",
+"key": "csk"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g49",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g49/",
+-"start_date": {
+"iso": "2013-05-05T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Rajasthan Royals vs Pune Warriors",
+"format": "t20",
+"title": "Rajasthan Royals vs Pune Warriors - 50th Match - IPL T20 2013",
+"venue": "Sawai Mansingh Stadium, Jaipur",
+-"teams": {
+-"a": {
+"name": "Rajasthan Royals",
+"key": "rr"
+},
+-"b": {
+"name": "Pune Warriors",
+"key": "pwi"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g50",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g50/",
+-"start_date": {
+"iso": "2013-05-05T14:30+00:00"
+}
+}
+],
+"day": 5,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Kings XI Punjab vs Royal Challengers Bangalore",
+"format": "t20",
+"title": "Kings XI Punjab vs Royal Challengers Bangalore - 51st Match - IPL T20 2013",
+"venue": "Punjab Cricket Association Stadium, Mohali",
+-"teams": {
+-"a": {
+"name": "KingsXI Punjab",
+"key": "kxip"
+},
+-"b": {
+"name": "Royal Challengers Bangalore",
+"key": "rcb"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g51",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g51/",
+-"start_date": {
+"iso": "2013-05-06T14:30+00:00"
+}
+}
+],
+"day": 6,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Rajasthan Royals vs Delhi Daredevils",
+"format": "t20",
+"title": "Rajasthan Royals vs Delhi Daredevils - 52nd Match - IPL T20 2013",
+"venue": "Sawai Mansingh Stadium, Jaipur",
+-"teams": {
+-"a": {
+"name": "Rajasthan Royals",
+"key": "rr"
+},
+-"b": {
+"name": "Delhi Daredevils",
+"key": "dd"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g52",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g52/",
+-"start_date": {
+"iso": "2013-05-07T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Mumbai Indians vs Kolkata Knight Riders",
+"format": "t20",
+"title": "Mumbai Indians vs Kolkata Knight Riders - 53rd Match - IPL T20 2013",
+"venue": "Wankhede Stadium, Mumbai",
+-"teams": {
+-"a": {
+"name": "Mumbai Indians",
+"key": "mi"
+},
+-"b": {
+"name": "Kolkata Knight Riders",
+"key": "kkr"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g53",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g53/",
+-"start_date": {
+"iso": "2013-05-07T14:30+00:00"
+}
+}
+],
+"day": 7,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Zimbabwe vs Bangladesh",
+"format": "one-day",
+"title": "Zimbabwe vs Bangladesh - 3rd ODI Match at Bulawayo - Zimbabwe vs Bangladesh 2013",
+"venue": "Queens Sports Club, Bulawayo",
+-"teams": {
+-"a": {
+"name": "Zimbabwe",
+"key": "zim"
+},
+-"b": {
+"name": "Bangladesh",
+"key": "ban"
+}
+},
+"winner_team": "a",
+"key": "zimban_2013_one-day_03",
+"ref": "http://www.litzscore.com/series/zimban_2013/zimban_2013_one-day_03/",
+-"start_date": {
+"iso": "2013-05-08T07:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Sunrisers Hyderabad vs Chennai Super Kings",
+"format": "t20",
+"title": "Sunrisers Hyderabad vs Chennai Super Kings - 54th Match - IPL T20 2013",
+"venue": "Rajiv Gandhi Int. Stadium, Hyderabad",
+-"teams": {
+-"a": {
+"name": "Sunrisers Hyderabad",
+"key": "srh"
+},
+-"b": {
+"name": "Chennai Super Kings",
+"key": "csk"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g54",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g54/",
+-"start_date": {
+"iso": "2013-05-08T14:30+00:00"
+}
+}
+],
+"day": 8,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Kings XI Punjab vs Rajasthan Royals",
+"format": "t20",
+"title": "Kings XI Punjab vs Rajasthan Royals - 55th Match - IPL T20 2013",
+"venue": "Punjab C.A. Stadium, Mohali",
+-"teams": {
+-"a": {
+"name": "KingsXI Punjab",
+"key": "kxip"
+},
+-"b": {
+"name": "Rajasthan Royals",
+"key": "rr"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g55",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g55/",
+-"start_date": {
+"iso": "2013-05-09T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Pune Warriors vs Kolkata Knight Riders",
+"format": "t20",
+"title": "Pune Warriors vs Kolkata Knight Riders - 56th Match - IPL T20 2013",
+"venue": "Subrata Roy Sahara Stadium, Pune",
+-"teams": {
+-"a": {
+"name": "Pune Warriors",
+"key": "pwi"
+},
+-"b": {
+"name": "Kolkata Knight Riders",
+"key": "kkr"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g56",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g56/",
+-"start_date": {
+"iso": "2013-05-09T14:30+00:00"
+}
+}
+],
+"day": 9,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Delhi Daredevils vs Royal Challengers Bangalore",
+"format": "t20",
+"title": "Delhi Daredevils vs Royal Challengers Bangalore - 57th Match - IPL T20 2013",
+"venue": "Feroz Shah Kotla, Delhi",
+-"teams": {
+-"a": {
+"name": "Delhi Daredevils",
+"key": "dd"
+},
+-"b": {
+"name": "Royal Challengers Bangalore",
+"key": "rcb"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g57",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g57/",
+-"start_date": {
+"iso": "2013-05-10T14:30+00:00"
+}
+}
+],
+"day": 10,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Pune Warriors vs Mumbai Indians",
+"format": "t20",
+"title": "Pune Warriors vs Mumbai Indians - 58th Match - IPL T20 2013",
+"venue": "Subrata Roy Sahara Stadium, Pune",
+-"teams": {
+-"a": {
+"name": "Pune Warriors",
+"key": "pwi"
+},
+-"b": {
+"name": "Mumbai Indians",
+"key": "mi"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g58",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g58/",
+-"start_date": {
+"iso": "2013-05-11T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Zimbabwe vs Bangladesh",
+"format": "t20",
+"title": "Zimbabwe vs Bangladesh - 1st T20 Match at Bulawayo - Zimbabwe vs Bangladesh 2013",
+"venue": "Queens Sports Club, Bulawayo",
+-"teams": {
+-"a": {
+"name": "Zimbabwe",
+"key": "zim"
+},
+-"b": {
+"name": "Bangladesh",
+"key": "ban"
+}
+},
+"winner_team": "a",
+"key": "zimban_2013_t20_01",
+"ref": "http://www.litzscore.com/series/zimban_2013/zimban_2013_t20_01/",
+-"start_date": {
+"iso": "2013-05-11T11:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Kings XI Punjab vs Sunrisers Hyderabad",
+"format": "t20",
+"title": "Kings XI Punjab vs Sunrisers Hyderabad - 59th Match - IPL T20 2013",
+"venue": "Punjab C.A. Stadium, Mohali",
+-"teams": {
+-"a": {
+"name": "KingsXI Punjab",
+"key": "kxip"
+},
+-"b": {
+"name": "Sunrisers Hyderabad",
+"key": "srh"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g59",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g59/",
+-"start_date": {
+"iso": "2013-05-11T14:30+00:00"
+}
+}
+],
+"day": 11,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Kolkata Knight Riders vs Royal Challengers Bangalore",
+"format": "t20",
+"title": "Kolkata Knight Riders vs Royal Challengers Bangalore - 60th Match - IPL T20 2013",
+"venue": "JSCA International Cricket Stadium, Ranchi",
+-"teams": {
+-"a": {
+"name": "Kolkata Knight Riders",
+"key": "kkr"
+},
+-"b": {
+"name": "Royal Challengers Bangalore",
+"key": "rcb"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g60",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g60/",
+-"start_date": {
+"iso": "2013-05-12T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Zimbabwe vs Bangladesh",
+"format": "t20",
+"title": "Zimbabwe vs Bangladesh - 2nd T20 Match at Bulawayo - Zimbabwe vs Bangladesh 2013",
+"venue": "Queens Sports Club, Bulawayo",
+-"teams": {
+-"a": {
+"name": "Zimbabwe",
+"key": "zim"
+},
+-"b": {
+"name": "Bangladesh",
+"key": "ban"
+}
+},
+"winner_team": "b",
+"key": "zimban_2013_t20_02",
+"ref": "http://www.litzscore.com/series/zimban_2013/zimban_2013_t20_02/",
+-"start_date": {
+"iso": "2013-05-12T11:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Rajasthan Royals vs Chennai Super Kings",
+"format": "t20",
+"title": "Rajasthan Royals vs Chennai Super Kings - 61st Match - IPL T20 2013",
+"venue": "Sawai Mansingh Stadium, Jaipur",
+-"teams": {
+-"a": {
+"name": "Rajasthan Royals",
+"key": "rr"
+},
+-"b": {
+"name": "Chennai Super Kings",
+"key": "csk"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g61",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g61/",
+-"start_date": {
+"iso": "2013-05-12T14:30+00:00"
+}
+}
+],
+"day": 12,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Mumbai Indians vs Sunrisers Hyderabad",
+"format": "t20",
+"title": "Mumbai Indians vs Sunrisers Hyderabad - 62nd Match - IPL T20 2013",
+"venue": "Wankhede Stadium, Mumbai",
+-"teams": {
+-"a": {
+"name": "Mumbai Indians",
+"key": "mi"
+},
+-"b": {
+"name": "Sunrisers Hyderabad",
+"key": "srh"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g62",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g62/",
+-"start_date": {
+"iso": "2013-05-13T14:30+00:00"
+}
+}
+],
+"day": 13,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Royal Challengers Bangalore vs Kings XI Punjab",
+"format": "t20",
+"title": "Royal Challengers Bangalore vs Kings XI Punjab - 63rd Match - IPL T20 2013",
+"venue": "M Chinnaswamy Stadium, Bangalore",
+-"teams": {
+-"a": {
+"name": "Royal Challengers Bangalore",
+"key": "rcb"
+},
+-"b": {
+"name": "KingsXI Punjab",
+"key": "kxip"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g63",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g63/",
+-"start_date": {
+"iso": "2013-05-14T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Chennai Super Kings v Delhi Daredevils",
+"format": "t20",
+"title": "Chennai Super Kings v Delhi Daredevils - 64th Match - IPL T20 2013",
+"venue": "M. A. Chidambaram Stadium, Chennai",
+-"teams": {
+-"a": {
+"name": "Chennai Super Kings",
+"key": "csk"
+},
+-"b": {
+"name": "Delhi Daredevils",
+"key": "dd"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g64",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g64/",
+-"start_date": {
+"iso": "2013-05-14T14:30+00:00"
+}
+}
+],
+"day": 14,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Kolkata Knight Riders vs Pune Warriors",
+"format": "t20",
+"title": "Kolkata Knight Riders vs Pune Warriors - 65th Match - IPL T20 2013",
+"venue": "JSCA International Cricket Stadium, Ranchi",
+-"teams": {
+-"a": {
+"name": "Kolkata Knight Riders",
+"key": "kkr"
+},
+-"b": {
+"name": "Pune Warriors",
+"key": "pwi"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_g65",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g65/",
+-"start_date": {
+"iso": "2013-05-15T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Mumbai Indians v Rajasthan Royals",
+"format": "t20",
+"title": "Mumbai Indians v Rajasthan Royals - 66th Match - IPL T20 2013",
+"venue": "Wankhede Stadium, Mumbai",
+-"teams": {
+-"a": {
+"name": "Mumbai Indians",
+"key": "mi"
+},
+-"b": {
+"name": "Rajasthan Royals",
+"key": "rr"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g66",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g66/",
+-"start_date": {
+"iso": "2013-05-15T14:30+00:00"
+}
+}
+],
+"day": 15,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "England vs New Zealand",
+"format": "test",
+"title": "England vs New Zealand - 1st Test Match at London - England vs New Zealand 2013",
+"venue": "Lord's, London",
+-"teams": {
+-"a": {
+"name": "England",
+"key": "eng"
+},
+-"b": {
+"name": "New Zealand",
+"key": "nz"
+}
+},
+"winner_team": "a",
+"key": "gbnz_2013_test_01",
+"ref": "http://www.litzscore.com/series/gbnz_2013/gbnz_2013_test_01/",
+-"start_date": {
+"iso": "2013-05-16T10:00+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Kings XI Punjab v Delhi Daredevils",
+"format": "t20",
+"title": "Kings XI Punjab v Delhi Daredevils - 67th Match - IPL T20 2013",
+"venue": "HPCA Stadium, Dharamsala",
+-"teams": {
+-"a": {
+"name": "KingsXI Punjab",
+"key": "kxip"
+},
+-"b": {
+"name": "Delhi Daredevils",
+"key": "dd"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g67",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g67/",
+-"start_date": {
+"iso": "2013-05-16T14:30+00:00"
+}
+}
+],
+"day": 16,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Scotland vs Pakistan",
+"format": "one-day",
+"title": "Scotland vs Pakistan - 1st ODI Match at Edinburgh - Scotland vs Pakistan 2013",
+"venue": "Grange Cricket Club, Edinburgh",
+-"teams": {
+-"a": {
+"name": "Scotland",
+"key": "sct"
+},
+-"b": {
+"name": "Pakistan",
+"key": "pak"
+}
+},
+"winner_team": "b",
+"key": "sctpak_2013_one-day_01",
+"ref": "http://www.litzscore.com/series/sctpak_2013/sctpak_2013_one-day_01/",
+-"start_date": {
+"iso": "2013-05-17T09:45+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Sunrisers Hyderabad v Rajasthan Royals",
+"format": "t20",
+"title": "Sunrisers Hyderabad v Rajasthan Royals - 68th Match - IPL T20 2013",
+"venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+-"teams": {
+-"a": {
+"name": "Sunrisers Hyderabad",
+"key": "srh"
+},
+-"b": {
+"name": "Rajasthan Royals",
+"key": "rr"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g68",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g68/",
+-"start_date": {
+"iso": "2013-05-17T14:30+00:00"
+}
+}
+],
+"day": 17,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Kings XI Punjab v Mumbai Indians",
+"format": "t20",
+"title": "Kings XI Punjab v Mumbai Indians - 69th Match - IPL T20 2013",
+"venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+-"teams": {
+-"a": {
+"name": "KingsXI Punjab",
+"key": "kxip"
+},
+-"b": {
+"name": "Mumbai Indians",
+"key": "mi"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g69",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g69/",
+-"start_date": {
+"iso": "2013-05-18T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Royal Challengers Bangalore v Chennai Super Kings",
+"format": "t20",
+"title": "Royal Challengers Bangalore v Chennai Super Kings - 70th Match - IPL T20 2013",
+"venue": "M. Chinnaswamy Stadium, Bengaluru ",
+-"teams": {
+-"a": {
+"name": "Royal Challengers Bangalore",
+"key": "rcb"
+},
+-"b": {
+"name": "Chennai Super Kings",
+"key": "csk"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g70",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g70/",
+-"start_date": {
+"iso": "2013-05-18T14:30+00:00"
+}
+}
+],
+"day": 18,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Scotland vs Pakistan",
+"format": "one-day",
+"title": "Scotland vs Pakistan - 2nd ODI Match at Edinburgh - Scotland vs Pakistan 2013",
+"venue": "Grange Cricket Club, Edinburgh",
+-"teams": {
+-"a": {
+"name": "Scotland",
+"key": "sct"
+},
+-"b": {
+"name": "Pakistan",
+"key": "pak"
+}
+},
+"winner_team": "",
+"key": "sctpak_2013_one-day_02",
+"ref": "http://www.litzscore.com/series/sctpak_2013/sctpak_2013_one-day_02/",
+-"start_date": {
+"iso": "2013-05-19T09:45+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Pune Warriors v Delhi Daredevils",
+"format": "t20",
+"title": "Pune Warriors v Delhi Daredevils - 71st Match - IPL T20 2013",
+"venue": "Subrata Roy Sahara Stadium, Pune",
+-"teams": {
+-"a": {
+"name": "Pune Warriors",
+"key": "pwi"
+},
+-"b": {
+"name": "Delhi Daredevils",
+"key": "dd"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g71",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g71/",
+-"start_date": {
+"iso": "2013-05-19T10:30+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "Sunrisers Hyderabad vs Kolkata Knight Riders",
+"format": "t20",
+"title": "Sunrisers Hyderabad vs Kolkata Knight Riders - 72nd Match - IPL T20 2013",
+"venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+-"teams": {
+-"a": {
+"name": "Sunrisers Hyderabad",
+"key": "srh"
+},
+-"b": {
+"name": "Kolkata Knight Riders",
+"key": "kkr"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_g72",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_g72/",
+-"start_date": {
+"iso": "2013-05-19T14:30+00:00"
+}
+}
+],
+"day": 19,
+"current_day": false
+},
+-{
+"matches": [ ],
+"day": 20,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Chennai Super Kings v Mumbai Indians",
+"format": "t20",
+"title": "Chennai Super Kings v Mumbai Indians - Qualifier 1st Match - IPL T20 2013",
+"venue": "Feroz Shah Kotla, Delhi",
+-"teams": {
+-"a": {
+"name": "Chennai Super Kings",
+"key": "csk"
+},
+-"b": {
+"name": "Mumbai Indians",
+"key": "mi"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_qa",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_qa/",
+-"start_date": {
+"iso": "2013-05-21T14:30+00:00"
+}
+}
+],
+"day": 21,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Rajasthan Royals vs Sunrisers Hyderabad",
+"format": "t20",
+"title": "Rajasthan Royals vs Sunrisers Hyderabad - Eliminator Match - IPL T20 2013",
+"venue": "Feroz Shah Kotla, Delhi",
+-"teams": {
+-"a": {
+"name": "Rajasthan Royals",
+"key": "rr"
+},
+-"b": {
+"name": "Sunrisers Hyderabad",
+"key": "srh"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_e",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_e/",
+-"start_date": {
+"iso": "2013-05-22T14:30+00:00"
+}
+}
+],
+"day": 22,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Ireland vs Pakistan",
+"format": "one-day",
+"title": "Ireland vs Pakistan - 1st ODI Match at Dublin - Ireland vs Pakistan 2013",
+"venue": "Castle Avenue, Dublin",
+-"teams": {
+-"a": {
+"name": "Ireland",
+"key": "ire"
+},
+-"b": {
+"name": "Pakistan",
+"key": "pak"
+}
+},
+"winner_team": "",
+"key": "iepk_2013_one-day_01",
+"ref": "http://www.litzscore.com/series/iepk_2013/iepk_2013_one-day_01/",
+-"start_date": {
+"iso": "2013-05-23T09:45+00:00"
+}
+}
+],
+"day": 23,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "England vs New Zealand",
+"format": "test",
+"title": "England vs New Zealand - 2nd Test Match at  Leeds - England vs New Zealand 2013",
+"venue": "Headingley, Leeds",
+-"teams": {
+-"a": {
+"name": "England",
+"key": "eng"
+},
+-"b": {
+"name": "New Zealand",
+"key": "nz"
+}
+},
+"winner_team": "a",
+"key": "gbnz_2013_test_02",
+"ref": "http://www.litzscore.com/series/gbnz_2013/gbnz_2013_test_02/",
+-"start_date": {
+"iso": "2013-05-24T10:00+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "MI vs RR",
+"format": "t20",
+"title": "MI vs RR - Qualifier 2nd Match - IPL T20 2013",
+"venue": "Eden Gardens, Kolkata",
+-"teams": {
+-"a": {
+"name": "Mumbai Indians",
+"key": "mi"
+},
+-"b": {
+"name": "Rajasthan Royals",
+"key": "rr"
+}
+},
+"winner_team": "a",
+"key": "iplt20_2013_qb",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_qb/",
+-"start_date": {
+"iso": "2013-05-24T14:30+00:00"
+}
+}
+],
+"day": 24,
+"current_day": false
+},
+-{
+"matches": [ ],
+"day": 25,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "Ireland vs Pakistan",
+"format": "one-day",
+"title": "Ireland vs Pakistan - 2nd ODI Match at Dublin - Ireland vs Pakistan 2013",
+"venue": "Castle Avenue, Dublin",
+-"teams": {
+-"a": {
+"name": "Ireland",
+"key": "ire"
+},
+-"b": {
+"name": "Pakistan",
+"key": "pak"
+}
+},
+"winner_team": "b",
+"key": "iepk_2013_one-day_02",
+"ref": "http://www.litzscore.com/series/iepk_2013/iepk_2013_one-day_02/",
+-"start_date": {
+"iso": "2013-05-26T09:45+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "CSK vs MI",
+"format": "t20",
+"title": "CSK vs MI - Final Match - IPL T20 2013",
+"venue": "Eden Gardens, Kolkata",
+-"teams": {
+-"a": {
+"name": "Chennai Super Kings",
+"key": "csk"
+},
+-"b": {
+"name": "Mumbai Indians",
+"key": "mi"
+}
+},
+"winner_team": "b",
+"key": "iplt20_2013_final",
+"ref": "http://www.litzscore.com/series/iplt20_2013/iplt20_2013_final/",
+-"start_date": {
+"iso": "2013-05-26T14:30+00:00"
+}
+}
+],
+"day": 26,
+"current_day": false
+},
+-{
+"matches": [ ],
+"day": 27,
+"current_day": false
+},
+-{
+"matches": [ ],
+"day": 28,
+"current_day": false
+},
+-{
+"matches": [ ],
+"day": 29,
+"current_day": false
+},
+-{
+"matches": [ ],
+"day": 30,
+"current_day": false
+},
+-{
+-"matches": [
+-{
+"status": "completed",
+"name": "South Africa vs Netherlands",
+"format": "one-day",
+"title": "South Africa vs Netherlands - Only ODI at Amstelveen - South Africa vs Netherlands 2013",
+"venue": "VRA Cricket Ground,Amstelveen",
+-"teams": {
+-"a": {
+"name": "South Africa ",
+"key": "rsa"
+},
+-"b": {
+"name": "Netherlands",
+"key": "nl"
+}
+},
+"winner_team": "a",
+"key": "rsanl_2013_one-day_01",
+"ref": "http://www.litzscore.com/series/rsanl_2013/rsanl_2013_one-day_01/",
+-"start_date": {
+"iso": "2013-05-31T09:00+00:00"
+}
+},
+-{
+"status": "completed",
+"name": "England vs New Zealand",
+"format": "one-day",
+"title": "England vs New Zealand - 1st ODI Match at London - England vs New Zealand 2013",
+"venue": "Lord's, London",
+-"teams": {
+-"a": {
+"name": "England",
+"key": "eng"
+},
+-"b": {
+"name": "New Zealand",
+"key": "nz"
+}
+},
+"winner_team": "b",
+"key": "gbnz_2013_one-day_01",
+"ref": "http://www.litzscore.com/series/gbnz_2013/gbnz_2013_one-day_01/",
+-"start_date": {
+"iso": "2013-05-31T09:45+00:00"
+}
+}
+],
+"day": 31,
+"current_day": false
+}
+],
+"current_month": false,
+"month": "2013-05"
+}
+],
+"current_month": "2013-05",
+"next_month": "2013-06"
+}
+}
