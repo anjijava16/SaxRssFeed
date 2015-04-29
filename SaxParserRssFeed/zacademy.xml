@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chaneel>
+	<name>zacademy Chaneel</name>
+	<topic>
+		<name>Java Lang</name>
+		<tutorial>hashCode</tutorial>
+		<tutorial>RMI</tutorial>
+		<tutorial>EJB</tutorial>
+	</topic>
+	<topic>
+		<name>DesignPattern</name>
+		<tutorial>Factory</tutorial>
+		<tutorial>SingleTon</tutorial>
+	</topic>
+</chaneel>

@@ -1,0 +1,25 @@
+JSON Format:
+http://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=wnBLlznen9o&format=json
+
+XML Format:
+http://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=wnBLlznen9o&format=xml
+
+0zs4vGLDaiI
+http://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=0zs4vGLDaiI&format=xml
+
+https://news.google.com/news?ned=in&topic=h&output=rss    (HeadLines)
+https://news.google.com/news?ned=in&topic=s&output=rss   (Sport News)
+https://news.google.com/news?ned=in&topic=w&output=rss  (World)
+https://news.google.com/news?ned=in&topic=p&output=rss (Political)
+
+https://news.google.de/news/feeds?pz=1&cf=all&ned=de&hl=de&q=Social+Media&output=rss
+
+http://www.allindianewspapers.com/Feeds/nation.xml
+
+https://news.google.com/news?ned=us&topic=h&output=rss
+
+timesofindia.feedsportal.com/c/33039/f/533978/index.rss
+
+http://timesofindia.feedsportal.com/c/33039/f/533978/index.rss
+
+http://sites.fastspring.com/zaneacademy/product/all
